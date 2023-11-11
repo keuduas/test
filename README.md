@@ -42,7 +42,7 @@ return 0;
      - dwa
     
      
-![IMAGE](https://github.com/keuduas/test/issues/2#issue-1988965020)
+![IMAGE](https://github.com/keuduas/test/blob/db014656d8d179efd6e5b4835a0b9045782d90b5/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-11%20220552.png)
 
 
 
